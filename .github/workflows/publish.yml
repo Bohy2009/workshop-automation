@@ -1,5 +1,5 @@
 name: publish docker container
-
+# Added this line 
 # Run only when a push happens directly on the main branch
 on:
   push:
